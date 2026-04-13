@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dia\\driving-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|c:\\users\\dia\\driving-game\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|c:\\users\\dia\\driving-game\\assets\\scripts\\wintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|C:\\Users\\Dia\\driving-game\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|C:\\Users\\Dia\\driving-game\\assets\\scripts\\simplecarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE7628-BC5C-541B-F323-60D4E9FFD700}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplecarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:19:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\WinTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinTrigger.cs",
+              "ToolTip": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\WinTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:29:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:17:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleCarController.cs",
+              "DocumentMoniker": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\SimpleCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCarController.cs",
+              "ToolTip": "C:\\Users\\Dia\\driving-game\\Assets\\Scripts\\SimpleCarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleCarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:17:10.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
